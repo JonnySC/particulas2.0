@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300);
+
+body, html, canvas {
+  margin: 0px; 
+  padding: 0px; 
+  position: absolute; 
+  background-color: #000000; 
+  cursor: none; 
+}
+
+h1 {
+  position: absolute; 
+  z-index: 10;
+  color: white; 
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 10px; 
+}
