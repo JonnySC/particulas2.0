@@ -1,4 +1,4 @@
-var partNum = 1000;
+var partNum = 1500;
 //particle number - change it!
 
 window.requestAnimFrame = (function(){

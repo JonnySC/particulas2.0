@@ -1,6 +1,7 @@
 # particulas2.0
 
 [Visitar el sitio de las partículas](https://jonnysc.github.io/particulas2.0/)
+<img src="img/particulas2.0.png">
 
 
 Este código en JavaScript crea un efecto de partículas que responden al movimiento del mouse y cambian su comportamiento cuando se hace clic en la ventana del navegador. A continuación, se detalla el código paso a paso:
